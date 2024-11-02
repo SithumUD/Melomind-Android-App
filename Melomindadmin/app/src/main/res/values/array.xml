@@ -1,0 +1,14 @@
+<resources>
+    <string-array name="questions">
+        <item>Personal Development</item>
+        <item>Overcoming Challenges</item>
+        <item>Leadership and Success</item>
+        <item>Entrepreneurship</item>
+        <item>Creativity and Innovation</item>
+        <item>Health and Wellness</item>
+        <item>Academic and Educational</item>
+        <item>Social Impact and Activism</item>
+        <item>Self-Confidence</item>
+        <!-- Add more questions as needed -->
+    </string-array>
+</resources>

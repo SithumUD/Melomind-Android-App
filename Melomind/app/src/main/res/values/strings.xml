@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Melomind</string>
+    <string name="app_decs">You\'re tuning in to Melomind App, your daily source of inspiration and motivation. Listen to powerful motivational speeches that will ignite your inner fire and help you conquer any challenge that comes your way. Get ready to unleash your full potential with Melomind!</string>
+    <string name="app_version">v 2.0</string>
+
+    <string name="back_arrow">back arrow</string>
+    <string name="app_logo">app logo</string>
+    <string name="close_icon">close button</string>
+    <string name="search_icon">search icon</string>
+
+    <string name="aboutus_title">About Us</string>
+    <string name="version">Version</string>
+    <string name="Terms_Conditions">Terms &amp; Conditions</string>
+    <string name="Privacy_Policy">Privacy Policy</string>
+    <string name="Your_Experience">Your Experience</string>
+    <string name="Logout">Logout</string>
+
+    <string name="specific_item_title">All</string>
+
+    <string name="Forget_Password_title">Forget Password</string>
+    <string name="email_hint">Email Address</string>
+    <string name="send_password_button">Send Password Reset</string>
+    <string name="Forget_Password_decs_line1">Enter your email address below.</string>
+    <string name="Forget_Password_decs_line2">We\'ll look for your account and send you a</string>
+    <string name="Forget_Password_decs_line3">password reset email.</string>
+    <string name="have_account">Already have an account?</string>
+    <string name="login_button">Log in</string>
+
+
+    <string name="admob_app_id">ca-app-pub-9657498808562508~1307493641</string>
+    <string name="home_banner_ad_unit_id">ca-app-pub-9657498808562508/6270678736</string>
+    <string name="category_banner_ad_unit_id">ca-app-pub-9657498808562508/1329343242</string>
+    <string name="download_banner_ad_unit_id">ca-app-pub-9657498808562508/6373006114</string>
+    <string name="search_banner_ad_unit_id">ca-app-pub-9657498808562508/5848879047</string>
+    <string name="logout_interstitial_ad_unit_id">ca-app-pub-9657498808562508/6769372188</string>
+    <string name="download_attempt_rewarded_ad_unit_id">ca-app-pub-9657498808562508/6373006114</string>
+    <string name="play_banner_ad_unit_id">ca-app-pub-9657498808562508/3609722345</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
